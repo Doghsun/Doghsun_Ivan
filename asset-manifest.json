@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Doghsun_Ivan/static/css/main.e80a825a.chunk.css",
+    "main.js": "/Doghsun_Ivan/static/js/main.9ed47bbb.chunk.js",
+    "main.js.map": "/Doghsun_Ivan/static/js/main.9ed47bbb.chunk.js.map",
+    "runtime-main.js": "/Doghsun_Ivan/static/js/runtime-main.bbc112d2.js",
+    "runtime-main.js.map": "/Doghsun_Ivan/static/js/runtime-main.bbc112d2.js.map",
+    "static/js/2.84a586ea.chunk.js": "/Doghsun_Ivan/static/js/2.84a586ea.chunk.js",
+    "static/js/2.84a586ea.chunk.js.map": "/Doghsun_Ivan/static/js/2.84a586ea.chunk.js.map",
+    "index.html": "/Doghsun_Ivan/index.html",
+    "precache-manifest.35bcb642c08628daeb51ac593264d368.js": "/Doghsun_Ivan/precache-manifest.35bcb642c08628daeb51ac593264d368.js",
+    "service-worker.js": "/Doghsun_Ivan/service-worker.js",
+    "static/css/main.e80a825a.chunk.css.map": "/Doghsun_Ivan/static/css/main.e80a825a.chunk.css.map",
+    "static/js/2.84a586ea.chunk.js.LICENSE.txt": "/Doghsun_Ivan/static/js/2.84a586ea.chunk.js.LICENSE.txt",
+    "static/media/Alekcandra_F.png": "/Doghsun_Ivan/static/media/Alekcandra_F.802631b9.png",
+    "static/media/Cutar.png": "/Doghsun_Ivan/static/media/Cutar.f6449a2a.png",
+    "static/media/Evdok_Ctruchova.png": "/Doghsun_Ivan/static/media/Evdok_Ctruchova.3155fa30.png",
+    "static/media/Ivan_F_Platonov.png": "/Doghsun_Ivan/static/media/Ivan_F_Platonov.3991e6e2.png",
+    "static/media/N_MarkovI.png": "/Doghsun_Ivan/static/media/N_MarkovI.df98fd2c.png",
+    "static/media/Nikolay_F_Platonov.png": "/Doghsun_Ivan/static/media/Nikolay_F_Platonov.2abb00b4.png",
+    "static/media/Platonovu_Dogsun.png": "/Doghsun_Ivan/static/media/Platonovu_Dogsun.64123ef0.png",
+    "static/media/Без.png": "/Doghsun_Ivan/static/media/Без.d8ae60dd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbc112d2.js",
+    "static/js/2.84a586ea.chunk.js",
+    "static/css/main.e80a825a.chunk.css",
+    "static/js/main.9ed47bbb.chunk.js"
+  ]
+}
